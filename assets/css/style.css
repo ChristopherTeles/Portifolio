@@ -127,7 +127,7 @@ footer{
     }
 }
 
-@media (min-width:440px) and (max-width:685px) {
+@media (min-width:320px) and (max-width:685px) {
      header{
          position: initial;
          background-color: #3b576d;
