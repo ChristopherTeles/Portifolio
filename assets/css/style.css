@@ -131,25 +131,38 @@ footer{
      header{
          position: initial;
          background-color: #3b576d;
+         padding-left: 25px;
+         padding-right:  25px;
+         padding-top: 13px;
+         padding-bottom: 5px;
+         border-bottom: 0.5px solid #fff;
      }
     .conteiner{
         flex-direction: column;
     }
+    .menu-line{
+        background-color: #fff;
+    }
 
     .profissao{
-        margin-top: 0px;
-        padding-left: 40px;
+        margin-top: -35px;
+        padding-left: 75px;
+        font-size: 12px;
     }
     .name {
-        font-size: 45px;
-        margin-bottom: 0;
+        font-size: 37px;
+        margin-bottom: 20px;
+    }
+    .buttons{
+        margin-left: 85px;
     }
     .buttons a {
-        display: none;
+       font-size: 10px;
+       padding: 10px 15px;
     }
     footer{
         position: initial;
-        background-color: rgba(0, 0, 0, 0);
+        background-color: rgba(17, 17, 17, 0.253);
         color: #333;
         font-size: 7px;
     }
