@@ -138,7 +138,7 @@ footer{
 
     .profissao{
         margin-top: 0px;
-        padding-left: 80px;
+        padding-left: 40px;
     }
     .name {
         font-size: 45px;
@@ -149,6 +149,8 @@ footer{
     }
     footer{
         position: initial;
-        background-color: black;
+        background-color: rgba(0, 0, 0, 0);
+        color: #333;
+        font-size: 7px;
     }
 }
